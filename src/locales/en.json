@@ -1,0 +1,11 @@
+{
+  "sidebar": {
+    "title": "MiroBot",
+    "shortTitle": "MB",
+    "dashboard": "Dashboard",
+    "navigation": "Navigation",
+    "teleop": "Teleop",
+    "debug": "Debug",
+    "config": "Configuration"
+  }
+}
